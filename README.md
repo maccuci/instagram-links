@@ -8,9 +8,14 @@ estranho ou todo errado mesmo.
 
 Ainda não terminei este projeto, nem sei se vou terminar. Mas se quiser usar, pode sem problemas, afinal, é apenas uma inspiração. Caso eu continue, uma lista das coisas que devo colocar:
 
-
 ### Features
 - [x] Background
 - [ ] Animar o background
 - [ ] Adicionar overlays bacanas
 - [ ] Colocar uma transição com blur
+
+###Resultado
+
+<h1 align="center">
+    <img src="./assets/img/result.png" alt="Result">
+</h1>
