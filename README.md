@@ -14,4 +14,3 @@ Ainda não terminei este projeto, nem sei se vou terminar. Mas se quiser usar, p
 - [ ] Animar o background
 - [ ] Adicionar overlays bacanas
 - [ ] Colocar uma transição com blur
-- [ ] Plano de fundo
