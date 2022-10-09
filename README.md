@@ -8,8 +8,10 @@ estranho ou todo errado mesmo.
 
 Ainda não terminei este projeto, nem sei se vou terminar. Mas se quiser usar, pode sem problemas, afinal, é apenas uma inspiração. Caso eu continue, uma lista das coisas que devo colocar:
 
-[x] Background
-[ ] Animar o background
-[ ] Adicionar overlays bacanas
-[ ] Colocar uma transição com blur
-[ ] Plano de fundo
+
+### Features
+- [x] Background
+- [ ] Animar o background
+- [ ] Adicionar overlays bacanas
+- [ ] Colocar uma transição com blur
+- [ ] Plano de fundo
